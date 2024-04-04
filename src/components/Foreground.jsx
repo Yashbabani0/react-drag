@@ -7,7 +7,7 @@ function Foreground() {
     {
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
       filesize: ".9mb",
-      close: true,
+      close: false,
       tag: {
         isOpen: true,
         tagTitle: "Download Now",
@@ -27,7 +27,7 @@ function Foreground() {
     {
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
       filesize: ".9mb",
-      close: true,
+      close: false,
       tag: {
         isOpen: true,
         tagTitle: "Download Now",
